@@ -67,6 +67,7 @@ div#timer > div:not(:last-child):after {
     top: 10px;
     left: -30px;
     transition: 0.5s all ease;
+    z-index: 1;
 }
 .img-wrap:hover .btn-group-hover {
   left: 10px;

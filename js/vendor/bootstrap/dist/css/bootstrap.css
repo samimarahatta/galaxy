@@ -1063,7 +1063,7 @@ pre code {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   .col-md {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
