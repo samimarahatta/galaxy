@@ -126,7 +126,7 @@
 
         <nav class="d-flex justify-content-between align-items-center">
           <ul>
-            <li class="bar-icon"><a href=""><i class="fa fa-bars"></i></a></li>
+            <li class="bar-icon"><a href="javascript:void(0)"><i class="fa fa-bars"></i></a></li>
             <li><a href="">Home</a></li>
             <li><a href="">Categories</a>
               <ul>

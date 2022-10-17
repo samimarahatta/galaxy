@@ -23,6 +23,8 @@
   <!-- *************** Start Common CSS *************** -->
   <link rel="stylesheet" href="css/common/main.css" type="text/css" />
   <link rel="stylesheet" href="css/common/header-footer.css" type="text/css" />
+  <!-- Add inner all css only for the inner pages and not the home page -->
+  <!-- <link rel="stylesheet" href="css/common/inner-all.css" type="text/css" /> -->
   <link rel="stylesheet" href="css/pages/home.css" type="text/css" />
 </head>
 
@@ -1531,6 +1533,8 @@
     crossorigin="anonymous"></script>
   <script src="js/vendor/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"></script>
   <script src="js/common/main.js" type="text/javascript"></script>
+  <!-- Add inner all css only for the inner pages and not the home page -->
+  <!-- <script src="js/common/inner-all.js" type="text/javascript"></script> -->
   <script src="js/pages/home.js" type="text/javascript"></script>
 </body>
 
